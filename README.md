@@ -20,4 +20,4 @@ Este repositorio contiene un análisis integral realizado en **Power BI** sobre 
 ## 📁 Contenido del Repositorio
 - `Biodiesel_Argentina.pbix`: Archivo original de Power BI.
 - `/Screenshots`: Capturas de las hojas de Estacionalidad y Análisis Federal.
-- `Biodiesel_Data.xlsx`: Fuente de datos original.
+- `estadisticas_biodiesel.xls`: Fuente de datos original.
