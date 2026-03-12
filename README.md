@@ -5,8 +5,7 @@
 Este repositorio contiene un análisis integral realizado en **Power BI** sobre la evolución de la industria del biodiesel en Argentina. El estudio abarca desde los inicios de la industria hasta las proyecciones de 2025, analizando volúmenes de producción, mercado interno vs. exportación y distribución federal.
 
 ## 🖼️ Visualización del Dashboard
-![Hoja Anual](./Hoja_Anual.png)
-*(Asegurate de que el nombre del archivo coincida con la imagen que subiste)*
+![Hoja Anual](./Proyexto 1.jpeg)
 
 ## 💡 Hallazgos Principales (Insights)
 * **Perfil Exportador:** Argentina mantiene un promedio de exportación superior al **59%**, consolidándose como un actor clave en el mercado global.
