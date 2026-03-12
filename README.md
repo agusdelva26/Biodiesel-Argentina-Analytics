@@ -8,7 +8,7 @@ Este repositorio contiene un análisis integral realizado en **Power BI** sobre 
 ![Hoja Anual](./Proyecto1.jpeg)
 
 ## 💡 Hallazgos Principales (Insights)
-* **Perfil Exportador:** Argentina mantiene un promedio de exportación superior al **59%**, consolidándose como un actor clave en el mercado global.
+* **Perfil Exportador:** Argentina mantiene un promedio de exportación superior al **59%**, consolidándose como un actor clave en el mercado.
 * **Estacionalidad:** Se detectó una concentración de producción entre los meses de mayo y octubre, coincidiendo con la zafra de oleaginosas.
 * **Dominancia Federal:** La provincia de **Santa Fe** representa el núcleo productivo del país, concentrando la mayor parte de las plantas industriales.
 
@@ -19,5 +19,4 @@ Este repositorio contiene un análisis integral realizado en **Power BI** sobre 
 
 ## 📁 Contenido del Repositorio
 - `Biodiesel_Argentina.pbix`: Archivo original de Power BI.
-- `/Screenshots`: Capturas de las hojas de Estacionalidad y Análisis Federal.
 - `estadisticas_biodiesel.xls`: Fuente de datos original.
